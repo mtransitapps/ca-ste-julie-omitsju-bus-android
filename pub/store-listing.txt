@@ -1,12 +1,12 @@
 Title: Ste-Julie Bus (MonTransit)
 ----------
-Short description: Ville-Ste-Julie bus information for MonTransit BETA.
+Short description: Ste-Julie bus information for MonTransit BETA.
 ----------
 Full description:
 BETA: TEST IN PROGRESS
 To leave the test: http://goo.gl/Ff5jvT
 
-This application adds Ville-Ste-Julie bus information to MonTransit BETA.
+This application adds Ste-Julie bus information to MonTransit BETA.
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 
@@ -20,7 +20,7 @@ http://www.amt.qc.ca/developers/
 This application is free and open-source:
 https://github.com/mtransitapps/ca-ste-julie-omitsju-bus-android
 
-This app is not related with the Agence Métropolitaine de Transport and Ville-Sainte-Julie.
+This app is not related with the Agence Métropolitaine de Transport and Ville de Sainte-Julie.
 ----------
 Application type: Applications
 ----------
