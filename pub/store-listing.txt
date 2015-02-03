@@ -2,11 +2,15 @@ Title: Ste-Julie Bus (MonTransit)
 ----------
 Short description: Ste-Julie bus information for MonTransit BETA.
 ----------
-Full description:
-BETA: TEST IN PROGRESS
-To leave the test: http://goo.gl/Ff5jvT
+What's new in this version?:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
-This application adds Ste-Julie bus information to MonTransit BETA.
+Schedule from August 25, 2014 to August 31, 2020.
+----------
+Full description:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+This application adds Ste-Julie bus information to MonTransit BETA. 
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 

@@ -2,9 +2,13 @@ Title: Bus Ste-Julie (MonTransit)
 ----------
 Short description: Informations des bus Ville de Sainte-Julie pour MonTransit BETA.
 ----------
+What's new in this version?:
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
+
+Horaires du 25 Août 2014 au 31 Août 2020.
+----------
 Full description:
-BETA : TEST EN COURS
-Pour quitter le test : http://goo.gl/Ff5jvT
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Cette application ajoute les informations des bus Ville de Sainte-Julie à MonTransit BETA.
 
