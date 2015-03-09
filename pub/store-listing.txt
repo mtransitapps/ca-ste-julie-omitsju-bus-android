@@ -3,7 +3,7 @@ Title: Ste-Julie Bus - MonTransit
 Short description: Ste-Julie bus information for MonTransit BETA.
 ----------
 What's new in this version?:
-Schedule from August 25, 2014 to August 31, 2020.
+Schedule from January 19, 2015 to August 31, 2020.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
