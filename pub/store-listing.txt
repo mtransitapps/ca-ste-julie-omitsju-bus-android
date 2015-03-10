@@ -1,6 +1,8 @@
 Title: Ste-Julie Bus - MonTransit
 ----------
-Short description: Ste-Julie bus information for MonTransit BETA.
+Short description:
+Sainte-Julie buses for MonTransit BETA
+Schedule…
 ----------
 What's new in this version?:
 Schedule from January 19, 2015 to August 31, 2020.
@@ -8,18 +10,18 @@ Schedule from January 19, 2015 to August 31, 2020.
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This application adds Ste-Julie bus information to MonTransit BETA. 
+This application adds Sainte-Julie buses information to MonTransit BETA.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
-Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
+Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
 
 This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
 The information comes from the GTFS file provided by the Agence Métropolitaine de Transport.
-http://www.amt.qc.ca/developers/
+https://www.amt.qc.ca/en/about/open-data
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-ste-julie-omitsju-bus-android

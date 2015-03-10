@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MonTransit Ste-Julie Bus</string>
-    <string name="app_desc">Données des bus Ste-Julie pour MonTransit.</string>
+    <string name="app_desc">Données des autobus de Ville de Sainte-Julie pour MonTransit.</string>
 </resources>
