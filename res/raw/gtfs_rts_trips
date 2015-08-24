@@ -3,7 +3,7 @@
 11001,0,'Terminus Ste-Julie',110
 12000,0,'Liseron',120
 20001,0,'Principale',200
-22001,0,'N.-P.-Lapierre',220
+22001,0,'N-P-Lapierre',220
 25001,0,'Principale',250
 32501,0,'Longueuil',325
 32500,0,'Ste-Julie',325
@@ -19,4 +19,4 @@
 51001,0,'Terminus Ste-Julie',510
 60001,0,'Montréal',600
 60000,0,'Ste-Julie',600
-80000,0,'N.P.-Lapierre',800
+80000,0,'N.P-Lapierre',800
