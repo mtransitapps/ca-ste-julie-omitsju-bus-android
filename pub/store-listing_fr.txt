@@ -5,7 +5,7 @@ Autobus Ville de Sainte-Julie pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 7 novembre 2016 au 7 avril 2020.
+Horaires du 11 décembre 2016 au 7 avril 2020.
 Tweets de @TransportSJU.
 ----------
 Full description:
