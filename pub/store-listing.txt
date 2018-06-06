@@ -1,7 +1,7 @@
-Title: Ste-Julie Bus - MonTransit
+Title: RTM Sainte-Julie Bus - MonTransit
 ----------
 Short description:
-Sainte-Julie buses for MonTransit
+RTM Sainte-Julie buses for MonTransit
 Schedules. News.
 ----------
 What's new in this version?:
@@ -9,11 +9,11 @@ Schedule from January 21, 2018 to April 7, 2020.
 Tweets from @TransportSJU.
 ----------
 Full description:
-This application adds Sainte-Julie buses information to MonTransit.
+This application adds RTM Sainte-Julie buses information to MonTransit.
 
 This app contains the buses schedule and the latest news from @TransportSJU on Twitter.
 
-Sainte-Julie serves Beloeil, Longueuil, McMasterville, Montréal, Saint-Bruno-de-Montarville, Sainte-Julie and Sainte-Huacinthe in Quebec, Canada.
+RTM Sainte-Julie serves Beloeil, Longueuil, McMasterville, Montréal, Saint-Bruno-de-Montarville, Sainte-Julie and Sainte-Huacinthe in Quebec, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
@@ -27,7 +27,7 @@ https://www.amt.qc.ca/en/about/open-data
 This application is free and open-source:
 https://github.com/mtransitapps/ca-ste-julie-omitsju-bus-android
 
-This app is not related with the Agence Métropolitaine de Transport and Ville de Sainte-Julie.
+This app is not related with the Agence Métropolitaine de Transport and RTM Sainte-Julie.
 
 Permissions:
 - Other: required to read news (Twitter)
