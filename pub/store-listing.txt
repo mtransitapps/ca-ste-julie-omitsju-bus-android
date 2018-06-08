@@ -6,12 +6,12 @@ Schedules. News.
 ----------
 What's new in this version?:
 Schedule from January 21, 2018 to April 7, 2020.
-Tweets from @TransportSJU.
+Tweets from @exo_SteJulie.
 ----------
 Full description:
 This application adds RTM Sainte-Julie buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @TransportSJU on Twitter.
+This app contains the buses schedule and the latest news from @exo_SteJulie on Twitter.
 
 RTM Sainte-Julie serves Beloeil, Longueuil, McMasterville, Montréal, Saint-Bruno-de-Montarville, Sainte-Julie and Sainte-Huacinthe in Quebec, Canada.
 

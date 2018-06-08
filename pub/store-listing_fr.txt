@@ -6,12 +6,12 @@ Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 21 janvier 2018 au 7 avril 2020.
-Tweets de @TransportSJU.
+Tweets de @exo_SteJulie.
 ----------
 Full description:
 Cette application ajoute les informations des autobus RTM Sainte-Julie à MonTransit.
 
-L'app contient les horaires et les dernières nouvelles de @TransportSJU sur Twitter.
+L'app contient les horaires et les dernières nouvelles de @exo_SteJulie sur Twitter.
 
 RTM Sainte-Julie dessert Beloeil, Longueuil, McMasterville, Montréal, Saint-Bruno-de-Montarville, Sainte-Julie et Sainte-Huacinthe.
 
