@@ -5,7 +5,7 @@ Autobus exo Sainte-Julie pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-(AMT/CIT => RTM => exo)
+(AMT/OMIT => RTM => exo)
 Horaires du 21 janvier 2018 au 7 juillet 2018.
 Tweets de @exo_SteJulie.
 ----------
