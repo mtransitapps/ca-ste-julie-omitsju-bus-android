@@ -30,8 +30,8 @@ https://github.com/mtransitapps/ca-ste-julie-omitsju-bus-android
 
 This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo Sainte-Julie.
 
-exo Sainte-Julie was formely know as RTM Sainte-Julie sector and OMIT de Sainte-Julie.
-exo was formely know as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
+exo Sainte-Julie was formerly known as RTM Sainte-Julie sector and OMIT de Sainte-Julie.
+exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
 - Other: required to read news (Twitter)
