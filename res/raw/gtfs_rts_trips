@@ -7,16 +7,14 @@
 801,0,'Ste-Julie Nord',8
 32501,0,'Longueuil',325
 32500,0,'Ste-Julie',325
-33001,0,'Longueuil',330
-33000,0,'Ste-Julie',330
 34001,0,'Longueuil',340
 34000,0,'Ste-Julie',340
 35001,0,'Longueuil',350
 35000,0,'Ste-Julie',350
 60001,0,'Montréal',600
 60000,0,'Ste-Julie',600
-2011000,0,'CFP Des Patriotes',20110
-2011001,0,'Terminus Ste-Julie',20110
-2012000,0,'Liseron',20120
-2051000,0,'Rural',20510
-2051001,0,'Terminus Ste-Julie',20510
+2000100,0,'CFP Des Patriotes',20001
+2000101,0,'Terminus Ste-Julie',20001
+2000200,0,'Liseron',20002
+2000300,0,'Rural',20003
+2000301,0,'Terminus Ste-Julie',20003
