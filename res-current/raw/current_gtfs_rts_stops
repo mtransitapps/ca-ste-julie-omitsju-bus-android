@@ -10,21 +10,23 @@
 71011,'71011','Léonard-De-Vinci / Blaise-Pascal',45.577025,-73.337805
 71012,'71012','Blaise-Pascal / Nobel',45.577817,-73.338212
 71013,'71013','Nobel / 2181',45.577334,-73.342692
+71014,'71014','Chambly / St-Charles',45.540851,-73.507929
+71015,'71015','Tremblay / CFP Pierre-Dupuy',45.536563,-73.464137
 71016,'71016','Blaise-Pascal / Léonard-De-Vinci',45.577012,-73.337947
 71017,'71017','Léonard-De-Vinci / Raymond-Blais',45.5762,-73.332579
 71018,'71018','Léonard-De-Vinci / Fer-À-Cheval',45.576463,-73.328905
 71019,'71019','Nobel / Lavoisier (Entrée Ouest)',45.580237,-73.32387
 71020,'71020','Nobel / Lavoisier (Entrée Est)',45.581051,-73.318929
 71021,'71021','Bombardier / Nobel',45.581671,-73.312429
-71022,'71022','Bombardier / Marconi',45.579287,-73.311597
-71023,'71023','Bombardier / Darwin',45.577786,-73.30819
+71022,'71022','Bombardier / Bombardier',45.579287,-73.311597
+71023,'71023','Bombardier / Marconi',45.577786,-73.30819
 71024,'71024','Centre De Formation Professionelle Des Patriotes',45.57609,-73.306673
 71026,'71026','Principale / Parc Ind. Coulombe',45.603869,-73.320713
 71027,'71027','Bertrand / Principale',45.609313,-73.311453
 71028,'71028','Rang Des Quarante-Deux / 561',45.605322,-73.312932
 71029,'71029','Rang De La Vallée / 1275',45.590749,-73.311329
 71030,'71030','Rang Des Quarante-Deux / 55',45.592036,-73.293436
-71031,'71031','Terminus Longueuil',45.524221,-73.520151
+71031,'71031','Terminus Longueuil',45.523795,-73.522215
 71032,'71032','Rang Des Quarante-Deux / Industrie',45.589037,-73.288934
 71033,'71033','Principale / Parc Ind. Coulombe',45.604045,-73.320625
 71034,'71034','Fer-À-Cheval / 765',45.60804,-73.326812
@@ -157,6 +159,7 @@
 71327,'71327','Terminus Ste-Julie',45.582361,-73.322872
 71328,'71328','Terminus Ste-Julie',45.582371,-73.322827
 71329,'71329','Terminus Ste-Julie',45.582367,-73.322853
+71330,'71330','Roland-Therrien / UPA',45.546607,-73.493225
 71331,'71331','Promenades St-Bruno',45.506062,-73.374828
 71332,'71332','Terminus Ste-Julie',45.582247,-73.32389
 71333,'71333','Terminus Ste-Julie',45.582777,-73.323039
