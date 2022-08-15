@@ -1,6 +1,6 @@
 Cette application ajoute les informations des autobus exo Sainte-Julie à MonTransit.
 
-L'app contient les horaires et les dernières nouvelles de @exo_Sud sur Twitter.
+L'app contient les horaires et les dernières nouvelles de @allo_exo et @exo_SteJulie sur Twitter.
 
 exo Sainte-Julie dessert Beloeil, Longueuil, McMasterville, Montréal, Saint-Bruno-de-Montarville, Sainte-Julie et Sainte-Hyacinthe au Québec, Canada.
 
