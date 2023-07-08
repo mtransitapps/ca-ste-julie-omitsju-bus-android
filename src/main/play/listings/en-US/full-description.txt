@@ -1,6 +1,6 @@
 This application adds exo Sainte-Julie buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @allo_exo and @exo_Sud on Twitter.
+This app provides the planned schedule as well as real time service statuses and the latest news from exo.quebec, @allo_exo and @exo_Sud on Twitter.
 
 exo Sainte-Julie serves Beloeil, Longueuil, McMasterville, Montréal, Saint-Bruno-de-Montarville, Sainte-Julie and Sainte-Hyacinthe in Quebec, Canada.
 
@@ -22,4 +22,4 @@ exo Sainte-Julie was formerly known as RTM Sainte-Julie sector and OMIT de Saint
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
-- Other: required to read news (Twitter)
+- Other: required for real-time service statuses and to read news from exo.quebec and Twitter
