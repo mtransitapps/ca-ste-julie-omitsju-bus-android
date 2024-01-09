@@ -8,6 +8,6 @@
 340,'340','Express Longueuil - Promenades St-Bruno','',50671,3
 350,'350','Express Longueuil','',50702,3
 600,'600','Ste-Julie - Term Brossard','',53430,3
-20000001,'T1','Taxibus Ste-Julie - Nobel - CFPP (Sur Réservation)','',2653,1501
-20000002,'T2','Taxibus Ste-Julie - Du Liseron (Sur Réservation)','',2654,1501
-20000003,'T3','Taxibus Ste-Julie-Sect Rural (Sur Réservation)','',2655,1501
+20000032,'T32','Taxibus Ste-Julie - Du Liseron (Sur Réservation)','',82355,1501
+20000033,'T33','Taxibus Ste-Julie-Sect Rural (Sur Réservation)','',82356,1501
+20000034,'T34','Taxibus Ste-Julie - Beloeil (Sur Réservation)','',82357,1501
