@@ -5,6 +5,7 @@ import static org.mtransit.commons.RegexUtils.DIGITS;
 import static org.mtransit.commons.StringUtils.EMPTY;
 
 import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.commons.RegexUtils;
@@ -40,6 +41,16 @@ public class SteJulieOMITSJUBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_BUS;
+	}
+
+	@Override
+	public @Nullable String getTripIdCleanupRegex() {
+		return "SJU\\-\\w{1}\\d{2}\\-(SJU_GTFS)\\-"; // remove trip ID shared by all trip IDs (include season letter and YY year)
+	}
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^SJU\\-\\w{1}\\d{2}\\-(SJU_GTFS)\\-"; // remove beginning of service ID shared by all service IDs (include season letter and YY year)
 	}
 
 	@Override
