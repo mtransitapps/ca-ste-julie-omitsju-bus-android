@@ -6,17 +6,17 @@ exo Sainte-Julie serves Beloeil, Longueuil, McMasterville, Montréal, Saint-Brun
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://bit.ly/MonTransitPlay
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
-The information comes from the GTFS file provided by exo.
+The information comes from the open data provided by exo:
 https://exo.quebec/en/about/open-data
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-ste-julie-omitsju-bus-android
 
-This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo Sainte-Julie.
+This app is not related with the Autorité Régionale de Transport Métropolitain (ARTM) and exo Sainte-Julie.
 
 exo Sainte-Julie was formerly known as RTM Sainte-Julie sector and OMIT de Sainte-Julie.
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
